@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d1f628e3eac89473","type":"text","text":"","x":124,"y":2,"width":250,"height":132},
+		{"id":"4f47fdcea0b06a7b","type":"text","text":"","x":124,"y":-150,"width":250,"height":132},
+		{"id":"2a1e0363a725cbc1","type":"text","text":"Step 1: Ask\n\nWhat are my stakeholders saying their problems are?\n\nNow that I’ve identified the issues, how can I help the stakeholders resolve their questions?","x":124,"y":-1300,"width":276,"height":860},
+		{"id":"e5858acacb08ff70","type":"text","text":"The six data analysis phases\n","x":-326,"y":-140,"width":250,"height":132}
+	],
+	"edges":[
+		{"id":"67a5de382757d233","fromNode":"e5858acacb08ff70","fromSide":"right","toNode":"2a1e0363a725cbc1","toSide":"left"},
+		{"id":"228a9d7e1e5006b4","fromNode":"e5858acacb08ff70","fromSide":"right","toNode":"4f47fdcea0b06a7b","toSide":"left"},
+		{"id":"b6b27901bf3a7c69","fromNode":"e5858acacb08ff70","fromSide":"right","toNode":"d1f628e3eac89473","toSide":"left"}
+	]
+}
