@@ -1,0 +1,1 @@
+"0","summarize(diamonds, mean_carat = mean(carat))"

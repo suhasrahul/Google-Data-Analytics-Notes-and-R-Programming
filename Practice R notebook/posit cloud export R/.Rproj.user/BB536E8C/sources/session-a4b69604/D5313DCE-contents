@@ -1,0 +1,11 @@
+# Data Frames 
+install.packages("tidyverse")
+library(tidyverse)
+data("diamonds")
+View(diamonds)
+
+head(diamonds)
+
+glimpse(diamonds)
+
+as_tibble(diamonds)

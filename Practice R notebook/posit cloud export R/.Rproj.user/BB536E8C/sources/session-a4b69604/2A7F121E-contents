@@ -1,0 +1,22 @@
+# Cleaning data 
+
+install.packages("here")
+library("here")
+#Used to skim 
+install.packages("skimr")
+library("skimr")
+
+# jaintor package functions for cleaning data 
+install.packages("janitor")
+library("janitor")
+
+# with this also install diplyr 
+
+install.packages("dplyr")
+library("dplyr")
+
+
+# Will do this with palmer penguins 
+
+install.packages("palmerpenguins")
+library("palmerpenguins")
